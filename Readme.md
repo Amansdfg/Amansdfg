@@ -81,3 +81,10 @@ GPA: 3.17
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansdfg&" alt="amansdfg" /></p>
 
+## 📫 How to Find Me
+
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/AmanKalabay)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kalabay-4371542bb/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aman_kalabay/)
+- 📞 Phone: +7 747 539 7059
+
