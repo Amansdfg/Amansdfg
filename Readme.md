@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 I’m **Aman Kalabay**, a passionate Java developer currently diving into the world of React.js! 🚀
 ![My Banner](assets/github-user-contribution.svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansdfg&label=Profile%20views&color=0e75b6&style=flat" alt="amansdfg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansdfg" alt="amansdfg" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 ### 👨‍💻 About Me
 
 I hold a Bachelor’s degree in Information Systems and have experience working with a range of technologies in both backend and frontend development. I’m dedicated to expanding my skills and embracing new challenges, especially as I explore React.js and its ecosystem.
@@ -24,7 +32,7 @@ I hold a Bachelor’s degree in Information Systems and have experience working 
 ### 🌟 What I’m Working On
 
 - **Chatgram:** A social networking platform using Java Spring, React, PostgreSQL, JWT, WebSocket, Tailwind CSS, and Docker. [Check it out!](#)
-- **Portfolio Website:** My personal portfolio showcasing my projects and skills. Built with React.js and styled with CSS.and Integration with emailJs [Visit it here!](#)
+- **Portfolio Website:** My personal portfolio showcasing my projects and skills. Built with React.js and styled with CSS.and Integration with email [Visit it here!](#)
 - **TechProduct Mini Market:** An online mini market application featuring Java Spring, Spring Security, Liquibase, MySQL, and Bootstrap. [Explore the project!](#)
 
 ### 📚 Currently Learning
