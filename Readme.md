@@ -59,6 +59,9 @@ GPA: 3.17
 - ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 - ![Liquibase](https://img.shields.io/badge/Liquibase-3F51B5?style=flat&logo=liquibase&logoColor=white)
 - ![MapStruct](https://img.shields.io/badge/MapStruct-3F51B5?style=flat&logo=mapstruct&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+
 
 **Testing:**
 - ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
