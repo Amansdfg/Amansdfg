@@ -24,7 +24,7 @@ I hold a Bachelor’s degree in Information Systems and have experience working 
 ### 🌟 What I’m Working On
 
 - **Chatgram:** A social networking platform using Java Spring, React, PostgreSQL, JWT, WebSocket, Tailwind CSS, and Docker. [Check it out!](#)
-- **Portfolio Website:** My personal portfolio showcasing my projects and skills. Built with React.js and styled with CSS. [Visit it here!](#)
+- **Portfolio Website:** My personal portfolio showcasing my projects and skills. Built with React.js and styled with CSS.and Integration with emailJs [Visit it here!](#)
 - **TechProduct Mini Market:** An online mini market application featuring Java Spring, Spring Security, Liquibase, MySQL, and Bootstrap. [Explore the project!](#)
 
 ### 📚 Currently Learning
