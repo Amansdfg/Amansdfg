@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+## Hi there 👋 I'm Aman Java Developer
 
 I’m **Aman Kalabay**, a passionate Java developer currently diving into the world of React.js! 🚀
 ![My Banner](assets/github-user-contribution.svg)
@@ -27,7 +27,7 @@ I’m **Aman Kalabay**, a passionate Java developer currently diving into the wo
 
 ### 👨‍💻 About Me
 
-I hold a Bachelor’s degree in Information Systems and have experience working with a range of technologies in both backend and frontend development. I’m dedicated to expanding my skills and embracing new challenges, especially as I explore React.js and its ecosystem.
+Good day! My name is Aman Kalabay, and I’m a motivated Java developer with a strong background in backend and frontend development. I hold a Bachelor’s degree in Information Systems and have worked on projects like Chatgram, showcasing my skills in Java and web technologies. I’m passionate about technology and continuously seek to expand my knowledge and skills. I am eager to learn and contribute to projects in the field of programming.
 
 ### 🎓 Education
 
