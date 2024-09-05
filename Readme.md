@@ -80,6 +80,13 @@ August 2023 – June 2027
   Issued: September 2022  
   Description: Achieved B2 level proficiency in English as per the CEFR.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansdfg&show_icons=true&locale=en&layout=compact" alt="amansdfg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansdfg&show_icons=true&locale=en" alt="amansdfg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansdfg&" alt="amansdfg" /></p>
+
+
 ### 🤔 Fun Fact
 
 I love exploring new technologies and continuously strive to learn and grow in the ever-evolving field of programming!
