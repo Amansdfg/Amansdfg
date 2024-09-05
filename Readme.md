@@ -51,6 +51,8 @@ GPA: 3.17
 - ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 - ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+- ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
 
 **Developer Tools:**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -61,6 +63,7 @@ GPA: 3.17
 - ![MapStruct](https://img.shields.io/badge/MapStruct-3F51B5?style=flat&logo=mapstruct&logoColor=white)
 - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 - ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+- ![npm](https://img.shields.io/badge/npm-C23039?style=flat&logo=npm&logoColor=white)
 
 
 **Testing:**
