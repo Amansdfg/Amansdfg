@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 I’m **Aman Kalabay**, a passionate Java developer currently diving into the world of React.js! 🚀
-![My Banner](assets/banner-image.png)  <!-- Example of adding a banner image -->
+![My Banner](assets/github-user-contribution.svg)
 ### 👨‍💻 About Me
 
 I hold a Bachelor’s degree in Information Systems and have experience working with a range of technologies in both backend and frontend development. I’m dedicated to expanding my skills and embracing new challenges, especially as I explore React.js and its ecosystem.
