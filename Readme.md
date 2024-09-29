@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 I'm Aman Java Developer
+## Hi there 👋 I'm Aman
 
 I’m **Aman Kalabay**, a passionate Java developer currently diving into the world of React.js! 🚀
 ![My Banner](assets/github-user-contribution.svg)
