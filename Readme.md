@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ## Hi there 👋 I'm Aman
 
 I’m **Aman Kalabay**, a passionate Java developer currently diving into the world of React.js! 🚀
-![My Banner](assets/github-user-contribution.svg)
+<!---![My Banner](assets/github-user-contribution.svg)--->
+![Snake gif](https://github.com/Amansdfg/Amansdfg/blog/output/github-contribution-grid-snake.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansdfg&label=Profile%20views&color=0e75b6&style=flat" alt="amansdfg" /> </p>
 
