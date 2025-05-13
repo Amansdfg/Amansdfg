@@ -9,7 +9,10 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Snake Contribution Graph
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: Amansdfg
@@ -17,7 +20,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
+      - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
