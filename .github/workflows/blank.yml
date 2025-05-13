@@ -12,13 +12,14 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Amansdfg        
-         
+          outputs: dist/github-contribution-grid-snake.svg
+
       - run: git status
       
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB }}
           branch: main
           force: true
 
