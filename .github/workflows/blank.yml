@@ -1,31 +1,24 @@
-
 name: Generate Snake
+
 on:
-  schedule:    
+  schedule:
     - cron: "0 */1 * * *"
   workflow_dispatch:
-jobs:  
-  build:    
+
+jobs:
+  generate-snake:
     runs-on: ubuntu-latest
-    steps:    
-      - uses: actions/checkout@v2          
-        id: snake-gif
+    steps:
+      - name: Generate Snake Contribution Graph
+        uses: Platane/snk@v3
         with:
-          github_user_name: Amansdfg        
+          github_user_name: Amansdfg
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - run: git status
-      
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
