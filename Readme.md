@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 
 I’m **Aman Kalabay**, a passionate Java developer currently diving into the world of React.js! 🚀
 
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amansdfg/Amansdfg/output/github-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amansdfg/Amansdfg/output/github-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Amansdfg/Amansdfg/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansdfg&label=Profile%20views&color=0e75b6&style=flat" alt="amansdfg" /> </p>
 
