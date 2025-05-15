@@ -83,12 +83,48 @@ GPA: 3.17
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansdfg&show_icons=true&locale=en&layout=compact" alt="amansdfg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansdfg&show_icons=true&locale=en" alt="amansdfg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansdfg&" alt="amansdfg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansdfg&" alt="amansdfg" /></p> -->
+
+<p>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=amansdfg&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+    <img 
+      align="left" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=amansdfg&show_icons=true&locale=en&layout=compact&theme=default" 
+      alt="amansdfg" />
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=amansdfg&show_icons=true&locale=en&theme=tokyonight" />
+    <img 
+      align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=amansdfg&show_icons=true&locale=en&theme=default" 
+      alt="amansdfg" />
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=amansdfg&theme=tokyonight" />
+    <img 
+      align="center" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=amansdfg&theme=default" 
+      alt="amansdfg" />
+  </picture>
+</p>
 
 ## 📫 How to Find Me
 
