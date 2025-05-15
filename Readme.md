@@ -26,12 +26,40 @@ I’m **Aman Kalabay**, a passionate Java developer currently diving into the wo
   </picture>
 </p>
 
+<p align="left">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://komarev.com/ghpvc/?username=amansdfg&label=Profile%20views&color=brightgreen&style=flat" />
+    <img 
+      src="https://komarev.com/ghpvc/?username=amansdfg&label=Profile%20views&color=0e75b6&style=flat" 
+      alt="amansdfg" />
+  </picture>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amansdfg&label=Profile%20views&color=0e75b6&style=flat" alt="amansdfg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansdfg" alt="amansdfg" /></a> </p>
+<p align="left">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-profile-trophy.vercel.app/?username=amansdfg&theme=darkhub" />
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=amansdfg&theme=flat" 
+      alt="amansdfg" />
+  </picture>
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=brightgreen" />
+    <img 
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" 
+      alt="amansdfg" />
+  </picture>
+</p>
+
 
 
 ### 👨‍💻 About Me
