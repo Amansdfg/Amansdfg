@@ -35,20 +35,8 @@ I’m **Aman Kalabay**, a second-year Information Systems student and a Java sof
   </picture>
 </p>
 
-<p align="left">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=brightgreen" />
-    <img 
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" 
-      alt="amansdfg" />
-  </picture>
-</p>
 
-
-
-### 👨‍💻 About Me
+### 👨‍💻 About M
 
 Good day! My name is Aman Kalabay, and I’m a motivated Java developer with a strong background in backend and frontend development. I hold a Bachelor’s degree in Information Systems and have worked on projects like Chatgram, showcasing my skills in Java and web technologies. I’m passionate about technology and continuously seek to expand my knowledge and skills. I am eager to learn and contribute to projects in the field of programming.
 
